@@ -25,6 +25,8 @@ mod 'puppet/download_file', '2.1.0'
 mod 'icinga/icinga2', '1.2.1'
 mod 'stahnma/epel', '1.2.2'
 mod 'puppetlabs/firewall', '1.8.1'
+mod 'icingaweb2',
+  :git => 'https://github.com/Icinga/puppet-icingaweb2.git'
 
 ```
 
